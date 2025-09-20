@@ -12,9 +12,7 @@ const app = express();
 // Configure CORS with more permissive options for development
 app.use(cors({
   origin: [
-    'https://portfolio-tracker-sage.vercel.app',
-    'https://portfolio-tracker-hackstyx.vercel.app',
-    'https://portfolio-tracker-kc46ea0ei-hackstyxs-projects.vercel.app',
+    'https://personal-portfolio-website-flax-rho.vercel.app/',
     'http://localhost:5173',
     /\.vercel\.app$/ // Allow all Vercel preview deployments
   ],
