@@ -4,8 +4,8 @@ A modern portfolio tracking application built with React, Vite, and Supabase.
 
 ## 🚀 Deployment Status
 
-- **Frontend**: [https://portfolio-tracker-hackstyx.vercel.app/](https://portfolio-tracker-hackstyx.vercel.app/)
-- **Backend**: [https://portfolio-tracker-backend-eh7r.onrender.com](https://portfolio-tracker-backend-eh7r.onrender.com)
+- **Frontend**: [https://personal-portfolio-website-flax-rho.vercel.app/](https://personal-portfolio-website-flax-rho.vercel.app/)
+- **Backend**: [https://personal-portfolio-website-backend-bf32.onrender.com](https://personal-portfolio-website-backend-bf32.onrender.com)
 - **Database**: Supabase
 
 ## Features
@@ -27,13 +27,3 @@ A modern portfolio tracking application built with React, Vite, and Supabase.
 - **Stock Data**: Finnhub API
 - **Deployment**: Vercel (Frontend), Render (Backend)
 
-## Getting Started
-
-1. Clone the repository
-2. Install dependencies: `npm install`
-3. Set up environment variables (see `.env.example`)
-4. Start development server: `npm run dev`
-
-## Documentation
-
-See [DEPLOYMENT_GUIDE.md](./DEPLOYMENT_GUIDE.md) for detailed deployment instructions.
